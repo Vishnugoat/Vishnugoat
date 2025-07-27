@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | 💡 Lifelong Learner | 🇮🇳 Based in India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishnugoat&label=Profile%20views&color=0e75b6&style=flat" alt="vishnugoat" />
+  <img src="https://komarev.com/ghpvc/?username=vishnugoat&label=Profile%20views&color=0e75b6&style=flat" alt="vishnugoat" /> 
 </p>
 
 ---
