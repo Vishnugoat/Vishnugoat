@@ -56,11 +56,9 @@
 
 ### 📊 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)]((https://leetcode.com/u/Vishnuvarthan_/))
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-14b964?style=flat-square&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/YOUR_GFG_USERNAME/profile)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME)
-[![Codeforces](https://img.shields.io/badge/-Codeforces-1f8acb?style=flat-square&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME)
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/YOUR_CODECHEF_USERNAME)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Vishnuvarthan_/)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/vishnuvarthan814)
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-14b964?style=flat-square&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/vishnuvarblz5/)
 
 ---
 
@@ -86,8 +84,7 @@
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?&style=for-the-badge&logo=firefox&logoColor=white)](https://YOURPORTFOLIO.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnuvarthanentrepreneur/)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishnugoat)
 
 ---
@@ -95,4 +92,3 @@
 ### ⚡ Fun Quote
 
 > "Code is like humor. When you have to explain it, it’s bad." — Cory House
-
