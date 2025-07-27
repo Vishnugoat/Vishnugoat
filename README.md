@@ -56,7 +56,7 @@
 
 ### 📊 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)]((https://leetcode.com/u/Vishnuvarthan_/))
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-14b964?style=flat-square&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/YOUR_GFG_USERNAME/profile)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME)
 [![Codeforces](https://img.shields.io/badge/-Codeforces-1f8acb?style=flat-square&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME)
