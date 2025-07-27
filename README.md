@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Vishnuvarthan</h1>
-<h3 align="center">🚀 Frontend Developer | 💡 Lifelong Learner | 🇮🇳 Based in India</h3>
+<h3 align="center">🚀 Full Stack Developer | 💡 Lifelong Learner | 🇮🇳 Based in India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vishnugoat&label=Profile%20views&color=0e75b6&style=flat" alt="vishnugoat" />
@@ -12,7 +12,7 @@
 - 🌱 I’m learning: `TypeScript`, `React Native`, `System Design`
 - 👨‍💻 Most used tech: `React`, `TailwindCSS`, `Node.js`, `MongoDB`
 - 💬 Ask me about: `Frontend Dev`, `GitHub`, `Tech Career`, `UI/UX`
-- 📫 How to reach me: [vishnugoat@gmail.com](mailto:vishnugoat@gmail.com)
+- 📫 How to reach me: [vishnuvarthan814@gmail.com](mailto:vishnuvarthan814@gmail.com)
 - 🧠 Fun fact: I believe code is poetry and pixels have power ✨
 
 ---
@@ -54,6 +54,16 @@
 
 ---
 
+### 📊 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-14b964?style=flat-square&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/YOUR_GFG_USERNAME/profile)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-1f8acb?style=flat-square&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/YOUR_CODECHEF_USERNAME)
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -76,7 +86,7 @@
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?&style=for-the-badge&logo=firefox&logoColor=white)](https://YOURPORTFOLIO.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishnugoat)
 
