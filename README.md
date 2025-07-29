@@ -52,15 +52,6 @@
 ![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/illustrator-%23FF9A00.svg?&style=flat&logo=adobe-illustrator&logoColor=white)
 
----
-
-### 📊 Coding Profiles
-
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Vishnuvarthan_/)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/vishnuvarthan814)
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-14b964?style=flat-square&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/vishnuvarblz5/)
-
----
 
 ### 📈 GitHub Stats
 
