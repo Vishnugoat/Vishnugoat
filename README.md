@@ -8,7 +8,7 @@
 ---
 
 ### 🧑‍💻 About Me:
-- 🔭 I’m currently working on: **AI Resume Analyzer & Real Estate Website**
+
 - 🌱 I’m learning: `TypeScript`, `React Native`, `System Design`
 - 👨‍💻 Most used tech: `React`, `TailwindCSS`, `Node.js`, `MongoDB`
 - 💬 Ask me about: `Frontend Dev`, `GitHub`, `Tech Career`, `UI/UX`
